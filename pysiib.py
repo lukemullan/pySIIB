@@ -16,7 +16,7 @@ EPS = np.finfo(np.float64).eps
 
 
 def SIIB(x, y, fs, gauss=False, use_MI_Kraskov=True,
-         window_length=400, window_shift=200, window='hanning', delta_dB=40):
+         window_length=400, window_shift=200, window='hamming', delta_dB=40):
     """Speech intelligibility in bits (SIIB)
     and with Gaussian capacity (SIIB^Gauss)
 
