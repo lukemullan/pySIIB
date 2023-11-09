@@ -12,7 +12,7 @@ The behaviour is almost compatible of original codes.
 ## Install
 
 ```bash
-pip install git+https://github.com/kamo-naoyuki/pySIIB.git
+pip install git+https://github.com/lukemullan/pySIIB.git
 ```
 
 ## Usage
